@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+<LinearLayout
+
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="QR Code Scanner"
+        android:id="@+id/demo1"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Kml auf Karte Anzeigen"
+        android:id="@+id/demo2"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Audio Abspielen"
+        android:id="@+id/demo3"/>
+
+    <Button
+        android:id="@+id/demo4"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Notification" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Firebase"
+        android:id="@+id/demo5"/>
+
+    <Button
+        android:id="@+id/demo6"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Google" />
+
+    <Button
+        android:id="@+id/demo7"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Rest Api" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="GeoJSON Route Anzeigen"
+        android:id="@+id/demo8"/>
+
+    <Button
+        android:id="@+id/demo9"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Book API" />
+
+    <Button
+    android:id="@+id/demo10"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:text="GeoJson Route Erstellen" />
+
+    <Button
+    android:id="@+id/demo11"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:text="View Model" />
+
+    <Button
+        android:id="@+id/demo12"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="OSM" />
+
+    <Button
+        android:id="@+id/demo13"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Video" />
+    <Button
+        android:id="@+id/demo14"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Marker" />
+    <Button
+        android:id="@+id/demo15"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Folder Erstellen" />
+
+
+</LinearLayout>
+</ScrollView>
+    </RelativeLayout>

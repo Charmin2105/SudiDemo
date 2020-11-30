@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">SudiDemo</string>
+    <string name="title_activity_kml">Map</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."
+    </string>
+    <string name="title_activity_json_maps">Map</string>
+
+    <string name="instructions">Name des Authors oder Titel des Buches eingeben. </string>
+    <string name="button_text">Buch suchen</string>
+    <string name="input_hint">Buch Title</string>
+    <string name="no_search_term">Bitte Feld ausfüllen</string>
+    <string name="no_network">Internetverbindung prüfen.</string>
+    <string name="no_results">Buch nicht gefunden</string>
+    <string name="title_activity_json_maps_url">Map</string>
+    <string name="title_activity_geo_json_add_layer">Map</string>
+    <string name="title_activity_geo_json_create_route">Map</string>
+    <string name="title_activity_marker">Map</string>
+
+
+    <string-array name="test">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+        <item>Item 5</item>
+        <item>Item 6</item>
+        <item>Item 7</item>
+        <item>Item 8</item>
+        <item>Item 9</item>
+        <item>Item 10</item>
+        <item>Item 11</item>
+        <item>Item 12</item>
+        <item>Item 13</item>
+        <item>Item 14</item>
+        <item>Item 15</item>
+        <item>Item 16</item>
+        <item>Item 17</item>
+        <item>Item 18</item>
+        <item>Item 19</item>
+        <item>Item 20</item>
+    </string-array>
+
+</resources>
